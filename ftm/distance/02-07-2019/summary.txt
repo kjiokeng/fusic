@@ -1,0 +1,152 @@
+4m-0d-ref-4m-0-obs
+	Dist. Mean: 4.80325581395	Std: 0.194323165626
+	rssi. Mean: -41.6279069767	Std: 1.27631839386
+
+4m-0d-ref-4m-0-obs-1-pers-in-the-end
+	Dist. Mean: 6.41170731707	Std: 0.438366716062
+	rssi. Mean: -47.5853658537	Std: 0.987127138773
+
+4m-0d-ref-4m-0-obs-1-pers-in-the-middle
+	Dist. Mean: 7.73714285714	Std: 0.106330251805
+	rssi. Mean: -45.5952380952	Std: 0.490845907812
+
+4m-0d-ref-4m-1-obs
+	Dist. Mean: 4.31208333333	Std: 0.21213162515
+	rssi. Mean: -42.3333333333	Std: 0.471404520791
+
+4m-0d-ref-4m-2-obs
+	Dist. Mean: 4.92916666667	Std: 0.196138060786
+	rssi. Mean: -43.0416666667	Std: 0.351089573882
+
+4m-0d-ref-4m-3-obs
+	Dist. Mean: 5.89	Std: 0.167467771662
+	rssi. Mean: -46.2727272727	Std: 0.686348585025
+
+4m-0d-ref-4m-3-obs-1-pers-in-the-end
+	Dist. Mean: 7.59608695652	Std: 0.263360211752
+	rssi. Mean: -45.7391304348	Std: 0.439108910364
+
+4m-0d-ref-_11.4m-0.6m-0-obs
+	Dist. Mean: 4.81235294118	Std: 0.129910802511
+	rssi. Mean: -40.0	Std: 0.0
+
+4m-0d-ref-_11.4m-0.6m-0-obs-1-pers-in-the-end
+	Dist. Mean: 6.46609756098	Std: 1.4729907821
+	rssi. Mean: -45.5853658537	Std: 1.51376786821
+
+4m-0d-ref-_11.4m-0.6m-0-obs-1-pers-in-the-middle
+	Dist. Mean: 4.868	Std: 0.200767100321
+	rssi. Mean: -40.4	Std: 0.545108115095
+
+4m-0d-ref-_11.4m-0.6m-1-obs
+	Dist. Mean: 4.28435897436	Std: 0.104680095622
+	rssi. Mean: -46.5897435897	Std: 0.491880156237
+
+4m-0d-ref-_11.4m-0.6m-2-obs
+	Dist. Mean: 4.210625	Std: 0.269257514983
+	rssi. Mean: -44.4375	Std: 0.658478359553
+
+4m-0d-ref-_11.4m-0.6m-3-obs
+	Dist. Mean: 5.39108695652	Std: 0.375419928711
+	rssi. Mean: -49.8260869565	Std: 0.867388580142
+
+4m-0d-ref-_11.4m-0.6m-3-obs-1-pers-in-the-end
+	Dist. Mean: 6.45860465116	Std: 0.585120068757
+	rssi. Mean: -48.2093023256	Std: 0.733203849788
+
+6m-0d-ref-4m-0-obs
+	Dist. Mean: 6.65285714286	Std: 0.1939107025
+	rssi. Mean: -44.8571428571	Std: 0.515078753638
+
+6m-0d-ref-4m-0-obs-1-pers-in-the-end
+	Dist. Mean: 9.0456097561	Std: 0.904371628719
+	rssi. Mean: -47.3902439024	Std: 2.10548701023
+
+6m-0d-ref-4m-0-obs-1-pers-in-the-middle
+	Dist. Mean: 7.75674418605	Std: 0.169358858438
+	rssi. Mean: -48.8139534884	Std: 2.07146520387
+
+6m-0d-ref-4m-1-obs
+	Dist. Mean: 6.79571428571	Std: 0.23434958479
+	rssi. Mean: -44.0	Std: 0.0
+
+6m-0d-ref-4m-2-obs
+	Dist. Mean: 6.37369565217	Std: 0.130905852257
+	rssi. Mean: -42.0	Std: 0.0
+
+6m-0d-ref-4m-3-obs
+	Dist. Mean: 7.85333333333	Std: 0.251771501344
+	rssi. Mean: -48.2380952381	Std: 0.478565505768
+
+6m-0d-ref-4m-3-obs-1-pers-at-the-end
+	Dist. Mean: 9.74868421053	Std: 0.603403378445
+	rssi. Mean: -53.9473684211	Std: 0.886963134019
+
+6m-0d-ref-_11.4m-0.6m-0-obs
+	Dist. Mean: 7.62204545455	Std: 1.12633068684
+	rssi. Mean: -48.0	Std: 0.0
+
+6m-0d-ref-_11.4m-0.6m-0-obs-1-pers-in-the-end
+	Dist. Mean: 12.0365	Std: 3.99959532328
+	rssi. Mean: -47.425	Std: 1.06975464477
+
+6m-0d-ref-_11.4m-0.6m-0-obs-1-pers-in-the-middle
+	Dist. Mean: 9.15523809524	Std: 0.440823029469
+	rssi. Mean: -48.8095238095	Std: 1.09627280316
+
+6m-0d-ref-_11.4m-0.6m-1-obs
+	Dist. Mean: 6.45071428571	Std: 0.183865800662
+	rssi. Mean: -44.5238095238	Std: 1.46771761975
+
+6m-0d-ref-_11.4m-0.6m-2-obs
+	Dist. Mean: 6.22395348837	Std: 0.130600394153
+	rssi. Mean: -39.0	Std: 0.0
+
+6m-0d-ref-_11.4m-0.6m-3-obs
+	Dist. Mean: 8.3585106383	Std: 0.481235018992
+	rssi. Mean: -46.3829787234	Std: 0.637588258033
+
+6m-0d-ref-_11.4m-0.6m-3-obs-1-pers-in-the-end
+	Dist. Mean: 14.587173913	Std: 0.522796256945
+	rssi. Mean: -49.8043478261	Std: 0.39670190415
+
+8m-0d-ref-4m-0-obs
+	Dist. Mean: 8.93833333333	Std: 0.272693065435
+	rssi. Mean: -41.6904761905	Std: 2.97199704574
+
+8m-0d-ref-4m-0-obs-1-pers-in-the-end
+	Dist. Mean: 11.8741025641	Std: 0.759634588094
+	rssi. Mean: -50.9487179487	Std: 0.67742793916
+
+8m-0d-ref-4m-0-obs-1-pers-in-the-middle
+	Dist. Mean: 9.18837209302	Std: 0.207554198386
+	rssi. Mean: -43.0697674419	Std: 0.452144699889
+
+8m-0d-ref-4m-1-obs
+	Dist. Mean: 8.90175	Std: 0.23519021557
+	rssi. Mean: -44.7	Std: 0.640312423743
+
+8m-0d-ref-4m-2-obs
+	Dist. Mean: 8.97452380952	Std: 0.134946239401
+	rssi. Mean: -45.1666666667	Std: 0.483866700783
+
+8m-0d-ref-4m-3-obs
+	Dist. Mean: 10.9071428571	Std: 0.245379062582
+	rssi. Mean: -49.9761904762	Std: 0.152455338986
+
+8m-0d-ref-4m-3-obs-1-pers-in-the-end
+	Dist. Mean: 13.1271698113	Std: 0.720373009663
+	rssi. Mean: -51.0943396226	Std: 0.976403700599
+
+8m-0d-ref-4m-3-obs-3-pers-in-the-end
+	Dist. Mean: 11.9559183673	Std: 0.88749571627
+	rssi. Mean: -54.387755102	Std: 0.89934957292
+
+8m-0d-ref-_11.4m-0.6m-0-obs-1-pers-in-the-middle
+	Dist. Mean: 19.3184444444	Std: 0.372868493681
+	rssi. Mean: -49.5777777778	Std: 0.537024265493
+
+8m-0d-ref-_11.4m-0.6m-3-obs
+	Dist. Mean: 17.1484444444	Std: 2.35349664736
+	rssi. Mean: -49.8888888889	Std: 0.433190859769
+

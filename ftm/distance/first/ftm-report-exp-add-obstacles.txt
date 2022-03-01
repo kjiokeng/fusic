@@ -1,0 +1,6 @@
+[2019-01-30 11:38:54] Success to put for target 4:92:26:89:2b:e4
+[2019-01-30 11:38:54] phy #0: FTM result! Status: 0
+[2019-01-30 11:38:54] Target: 04:92:26:89:2b:e4, status: 4, rtt: 0 psec, distance: 0 cm
+[2019-01-30 11:38:55] Success to put for target 4:92:26:89:2b:e4
+[2019-01-30 11:38:55] phy #0: FTM result! Status: 0
+[2019-01-30 11:38:55] Target: 04:92:26:89:2b:e4, status: 4, rtt: 0 psec, distance: 0 cm

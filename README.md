@@ -1,0 +1,1 @@
+Source code and used scripts for our paper INFOCOM'20 paper ["When FTM Discovered MUSIC: Accurate WiFi-based Ranging in the Presence of Multipath"](https://kjiokeng.github.io/assets/pdf/papers/fusic-infocom.pdf)

@@ -1,0 +1,108 @@
+10m-0d-ref-8.3m-1pers.txt
+	Dist. Mean: 13.5233333333	Std: 1.72330478009
+	rssi. Mean: -65.9047619048	Std: 2.10791618847
+
+10m-0d-ref-8.3m-2pers.txt
+	Dist. Mean: 15.4954285714	Std: 1.91481269932
+	rssi. Mean: -66.6571428571	Std: 1.01257400838
+
+10m-0d-ref-8.3m.txt
+	Dist. Mean: 10.4640677966	Std: 0.14290115873
+	rssi. Mean: -44.3898305085	Std: 0.689311844328
+
+1m-0d-ref-8.3m-1pers.txt
+	Dist. Mean: 2.10316455696	Std: 0.328416007811
+	rssi. Mean: -51.1772151899	Std: 1.64401094633
+
+1m-0d-ref-8.3m-2pers.txt
+	Dist. Mean: 4.04166666667	Std: 2.32769318329
+	rssi. Mean: -58.4027777778	Std: 2.49254289065
+
+1m-0d-ref-8.3m.txt
+	Dist. Mean: 1.47816901408	Std: 0.142377299377
+	rssi. Mean: -24.1549295775	Std: 0.361837537427
+
+2m-0d-ref-8.3m-1pers.2.txt
+	Dist. Mean: 3.75846153846	Std: 0.857651947998
+	rssi. Mean: -53.5897435897	Std: 2.10880873794
+
+2m-0d-ref-8.3m-1pers.txt
+	Dist. Mean: 8.00268041237	Std: 3.33536672135
+	rssi. Mean: -52.5773195876	Std: 2.40632779021
+
+2m-0d-ref-8.3m-2pers.txt
+	Dist. Mean: 7.80724637681	Std: 3.20311392154
+	rssi. Mean: -51.8985507246	Std: 0.568367291337
+
+2m-0d-ref-8.3m.txt
+	Dist. Mean: 2.65303921569	Std: 0.151403818014
+	rssi. Mean: -32.7745098039	Std: 0.417904735019
+
+3m-0d-ref-8.3m-1pers.txt
+	Dist. Mean: 11.5180392157	Std: 2.06186477525
+	rssi. Mean: -48.2941176471	Std: 1.22545097976
+
+3m-0d-ref-8.3m-2pers.txt
+	Dist. Mean: 12.5185	Std: 1.23643550175
+	rssi. Mean: -49.7166666667	Std: 0.838484081874
+
+3m-0d-ref-8.3m.txt
+	Dist. Mean: 3.33339285714	Std: 0.140398371807
+	rssi. Mean: -34.8392857143	Std: 0.750637484178
+
+4m-0d-ref-8.3m-1pers.txt
+	Dist. Mean: 12.1242592593	Std: 0.375122705119
+	rssi. Mean: -50.037037037	Std: 0.815656131316
+
+4m-0d-ref-8.3m-2pers.txt
+	Dist. Mean: 12.4916666667	Std: 0.38077406541
+	rssi. Mean: -53.7361111111	Std: 1.01369861228
+
+4m-0d-ref-8.3m.txt
+	Dist. Mean: 4.50117647059	Std: 0.147922171625
+	rssi. Mean: -48.3921568627	Std: 1.2692197908
+
+5m-0d-ref-8.3m-timeline-1pers-rotation-younes-router.txt
+	Dist. Mean: 5.78322033898	Std: 0.688497358359
+	rssi. Mean: -44.0	Std: 4.11693484796
+
+5m-0d-ref-8.3m-timeline-1pers-rotation-younes.txt
+	Dist. Mean: 5.76574257426	Std: 0.333871222387
+	rssi. Mean: -43.7425742574	Std: 10.5404956629
+
+5m-0d-ref-8.3m-timeline-1pers-rotation.txt
+	Dist. Mean: 6.6485106383	Std: 1.9057298582
+	rssi. Mean: -48.0212765957	Std: 8.54895629241
+
+5m-0d-ref-8.3m-timeline-1pers.txt
+	Dist. Mean: 5.55660377358	Std: 0.1291473255
+	rssi. Mean: -39.2264150943	Std: 0.690679442178
+
+5m-0d-ref-8.3m-timeline-2pers.txt
+	Dist. Mean: 5.63027777778	Std: 0.0939114864324
+	rssi. Mean: -39.2777777778	Std: 2.21874728308
+
+6m-0d-ref-8.3m-1pers.txt
+	Dist. Mean: 13.354375	Std: 0.190663930451
+	rssi. Mean: -49.328125	Std: 1.40373038165
+
+6m-0d-ref-8.3m-2pers.txt
+	Dist. Mean: 14.2852542373	Std: 0.420715113289
+	rssi. Mean: -49.7118644068	Std: 0.452894549691
+
+6m-0d-ref-8.3m.txt
+	Dist. Mean: 6.43440677966	Std: 0.158352440926
+	rssi. Mean: -48.1355932203	Std: 0.595395527805
+
+8m-0d-ref-8.3m-1pers.txt
+	Dist. Mean: 16.1360869565	Std: 1.00093321295
+	rssi. Mean: -48.8115942029	Std: 1.01117469812
+
+8m-0d-ref-8.3m-2pers.txt
+	Dist. Mean: 15.5877777778	Std: 0.33625754386
+	rssi. Mean: -48.4074074074	Std: 0.491351820793
+
+8m-0d-ref-8.3m.txt
+	Dist. Mean: 8.70483870968	Std: 0.135226714476
+	rssi. Mean: -50.2419354839	Std: 0.927804968921
+

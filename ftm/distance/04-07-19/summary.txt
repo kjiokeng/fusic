@@ -1,0 +1,68 @@
+10m-0d-high-permitivity-1pers.txt
+	Dist. Mean: 6.44129032258	Std: 2.10750539269
+	rssi. Mean: -70.5483870968	Std: 5.19204546477
+
+10m-0d-high-permitivity.txt
+	Dist. Mean: 5.02540540541	Std: 0.430038304985
+	rssi. Mean: -49.972972973	Std: 4.16216216216
+
+18.6m-0d-high-1pers.txt
+	Dist. Mean: 13.6619230769	Std: 1.86035153674
+	rssi. Mean: -63.2692307692	Std: 1.19478650515
+
+18.6m-0d-high-2pers.txt
+	Dist. Mean: 91.9448	Std: 40.0205283443
+	rssi. Mean: -76.2	Std: 1.8547236991
+
+18.6m-0d-high-3pers.txt
+	Dist. Mean: 0.85380952381	Std: 0.692875142951
+	rssi. Mean: -56.5238095238	Std: 4.56298823996
+
+18.6m-0d-high.txt
+	Dist. Mean: 12.6033333333	Std: 1.12652530343
+	rssi. Mean: -53.3703703704	Std: 2.35934937906
+
+18.6m-0d-on-the-ground.txt
+	Dist. Mean: 12.7765384615	Std: 0.462783736731
+	rssi. Mean: -51.5769230769	Std: 1.182340473
+
+3m-0d-high-permitivity-1pers.txt
+	Dist. Mean: 0.175	Std: 0.159452187191
+	rssi. Mean: -62.5	Std: 2.29128784748
+
+5m-0d-high-permitivity-1pers.txt
+	Dist. Mean: 0.745	Std: 0.503431407262
+	rssi. Mean: -55.6363636364	Std: 1.02449342451
+
+7.5m-0d-high-permitivity-1pers.txt
+	Dist. Mean: 4.6875	Std: 1.2892221492
+	rssi. Mean: -66.0625	Std: 3.53498143559
+
+7.5m-0d-high-permitivity.txt
+	Dist. Mean: 2.22805555556	Std: 0.506435360822
+	rssi. Mean: -53.9722222222	Std: 3.34569467219
+
+9.3m-0d-0pers-high.txt
+	Dist. Mean: 3.836	Std: 0.244589451939
+	rssi. Mean: -60.0	Std: 0.894427191
+
+9.3m-0d-0pers.txt
+	Dist. Mean: 4.0675	Std: 1.25123489002
+	rssi. Mean: -74.9333333333	Std: 2.60042731531
+
+9.3m-0d-1pers.txt
+	Dist. Mean: 4.98222222222	Std: 2.21300086749
+	rssi. Mean: -78.7777777778	Std: 1.54759869746
+
+9.3m-0d-high-1pers.txt
+	Dist. Mean: 4.46081632653	Std: 0.653395641417
+	rssi. Mean: -59.1020408163	Std: 2.92940683526
+
+9.3m-0d-high-2pers.txt
+	Dist. Mean: 5.87444444444	Std: 2.20762874853
+	rssi. Mean: -70.8888888889	Std: 3.52066211506
+
+test.txt
+	Dist. Mean: 3.81611295681	Std: 1.16332401533
+	rssi. Mean: -72.634551495	Std: 3.10492089576
+
