@@ -1,0 +1,114 @@
+ftm-report-nlos-10m-side8.3m-1chair.txt
+	10.3186363636, -51.75
+
+ftm-report-nlos-10m-side8.3m-2chairs.txt
+	11.8595652174, -53.5217391304
+
+ftm-report-nlos-10m-side8.3m-2pers-at-1-end.txt
+	15.0347222222, -56.3888888889
+
+ftm-report-nlos-10m-side8.3m-2pers-at-2-ends.txt
+	13.2010526316, -55.9473684211
+
+ftm-report-nlos-10m-side8.3m-2pers-at-the-middle.txt
+	10.3543902439, -55.7073170732
+
+ftm-report-nlos-10m-side8.3m-3chairs.txt
+	12.5197435897, -52.1794871795
+
+ftm-report-nlos-10m-side8.3m-4chairs-1pers.txt
+	14.65225, -56.05
+
+ftm-report-nlos-10m-side8.3m-4chairs-2pers.2.txt
+	16.0610526316, -54.8684210526
+
+ftm-report-nlos-10m-side8.3m-4chairs-2pers.txt
+	10.74, -53.1463414634
+
+ftm-report-nlos-10m-side8.3m-4chairs.txt
+	11.0117073171, -53.7317073171
+
+ftm-report-nlos-10m-side8.3m-total-blockage-all.txt
+	18.9871428571, -51.5357142857
+
+ftm-report-nlos-10m-side8.3m.txt
+	10.0736585366, -49.5365853659
+
+ftm-report-nlos-5m-side8.3m-1chair.txt
+	6.201875, -38.0
+
+ftm-report-nlos-5m-side8.3m-1pers.txt
+	7.95210526316, -46.2894736842
+
+ftm-report-nlos-5m-side8.3m-2chairs.txt
+	6.10921875, -38.984375
+
+ftm-report-nlos-5m-side8.3m-2pers-at-1end.txt
+	11.025, -46.6
+
+ftm-report-nlos-5m-side8.3m-2pers-at-2ends.txt
+	11.28, -46.8636363636
+
+ftm-report-nlos-5m-side8.3m-2pers-at-the-middle.txt
+	7.39060606061, -46.7575757576
+
+ftm-report-nlos-5m-side8.3m-3chairs.txt
+	6.18892857143, -46.0
+
+ftm-report-nlos-5m-side8.3m-4chairs-1pers.txt
+	6.22854166667, -48.8229166667
+
+ftm-report-nlos-5m-side8.3m-4chairs-2pers.txt
+	6.29980392157, -49.431372549
+
+ftm-report-nlos-5m-side8.3m-4chairs.txt
+	6.38, -48.9777777778
+
+ftm-report-nlos-5m-side8.3m-total-blockage-all.2.txt
+	14.8015789474, -53.6578947368
+
+ftm-report-nlos-5m-side8.3m-total-blockage-all.txt
+	15.2411428571, -48.6
+
+ftm-report-nlos-5m-side8.3m.txt
+	5.79530612245, -47.0
+
+ftm-report-nlos-7.5m-side8.3m-1cahir.txt
+	8.08666666667, -48.0
+
+ftm-report-nlos-7.5m-side8.3m-1pers.txt
+	9.91027027027, -46.2432432432
+
+ftm-report-nlos-7.5m-side8.3m-2cahirs.txt
+	8.2876744186, -45.1860465116
+
+ftm-report-nlos-7.5m-side8.3m-2pers-at-1-end.txt
+	13.71225, -47.075
+
+ftm-report-nlos-7.5m-side8.3m-2pers-at-2-ends.txt
+	14.2797777778, -48.1111111111
+
+ftm-report-nlos-7.5m-side8.3m-2pers-at-the-middle.txt
+	9.00296296296, -47.962962963
+
+ftm-report-nlos-7.5m-side8.3m-3cahirs.txt
+	9.45111111111, -48.0222222222
+
+ftm-report-nlos-7.5m-side8.3m-4cahirs-1pers.txt
+	12.1865789474, -47.6578947368
+
+ftm-report-nlos-7.5m-side8.3m-4cahirs-2pers.txt
+	13.9548648649, -48.0810810811
+
+ftm-report-nlos-7.5m-side8.3m-4cahirs.txt
+	9.51520833333, -47.9583333333
+
+ftm-report-nlos-7.5m-side8.3m-total-blockage-all.txt
+	18.9263043478, -55.5652173913
+
+ftm-report-nlos-7.5m-side8.3m-total-blockage.txt
+	16.9775862069, -46.8275862069
+
+ftm-report-nlos-7.5m-side8.3m.txt
+	8.08301886792, -46.0943396226
+

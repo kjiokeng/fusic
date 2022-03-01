@@ -1,0 +1,104 @@
+pos1.txt
+	Dist. Mean: 7.43266666667	Std: 0.222035032271
+	rssi. Mean: -45.4	Std: 0.952190457139
+
+pos10.txt
+	Dist. Mean: 13.6241176471	Std: 0.693465795615
+	rssi. Mean: -50.0588235294	Std: 1.25887850347
+
+pos11.txt
+	Dist. Mean: 6.14055555556	Std: 0.876048401899
+	rssi. Mean: -45.8888888889	Std: 1.79161283296
+
+pos12.txt
+	Dist. Mean: 5.21473684211	Std: 0.103077304718
+	rssi. Mean: -42.3684210526	Std: 0.581334790378
+
+pos13.txt
+	Dist. Mean: 2.909375	Std: 0.700370158827
+	rssi. Mean: -41.3125	Std: 4.19402476745
+
+pos14.txt
+	Dist. Mean: 8.10888888889	Std: 0.655666657252
+	rssi. Mean: -49.8888888889	Std: 0.874889763779
+
+pos15.txt
+	Dist. Mean: 4.29454545455	Std: 0.204866414851
+	rssi. Mean: -47.6363636364	Std: 1.6663911618
+
+pos16.txt
+	Dist. Mean: 1.95588235294	Std: 0.132045394313
+	rssi. Mean: -39.1176470588	Std: 1.18233830837
+
+pos17.txt
+	Dist. Mean: 10.1095238095	Std: 0.435949715214
+	rssi. Mean: -49.7619047619	Std: 0.920908552658
+
+pos18.txt
+	Dist. Mean: 13.6811111111	Std: 0.484319555767
+	rssi. Mean: -46.6666666667	Std: 0.57735026919
+
+pos19.txt
+	Dist. Mean: 14.0	Std: 0.220978684373
+	rssi. Mean: -48.3157894737	Std: 2.17770114374
+
+pos2.txt
+	Dist. Mean: 7.06352941176	Std: 0.25929635955
+	rssi. Mean: -37.8823529412	Std: 2.74145416417
+
+pos20.txt
+	Dist. Mean: 14.3025	Std: 0.358411425599
+	rssi. Mean: -53.3	Std: 1.14455231423
+
+pos21.txt
+	Dist. Mean: 15.8705882353	Std: 0.925154807957
+	rssi. Mean: -50.1764705882	Std: 1.24783549621
+
+pos22.txt
+	Dist. Mean: 16.6457894737	Std: 0.290703607232
+	rssi. Mean: -51.6842105263	Std: 1.17216091849
+
+pos23.txt
+	Dist. Mean: 17.85	Std: 0.730728886717
+	rssi. Mean: -50.7647058824	Std: 2.96110892909
+
+pos24.txt
+	Dist. Mean: 14.265	Std: 1.58621404609
+	rssi. Mean: -49.5	Std: 2.15058131676
+
+pos25.txt
+	Dist. Mean: 13.8194444444	Std: 0.279572535255
+	rssi. Mean: -48.5	Std: 1.11803398875
+
+pos26.txt
+	Dist. Mean: 8.10333333333	Std: 0.594781539193
+	rssi. Mean: -49.619047619	Std: 1.09004982307
+
+pos3.txt
+	Dist. Mean: 10.1838095238	Std: 0.961251546239
+	rssi. Mean: -50.5238095238	Std: 1.21964271189
+
+pos4.txt
+	Dist. Mean: 11.3915	Std: 0.591322881343
+	rssi. Mean: -48.85	Std: 1.10792599031
+
+pos5.txt
+	Dist. Mean: 14.2505555556	Std: 0.653260814191
+	rssi. Mean: -49.3333333333	Std: 1.0
+
+pos6.txt
+	Dist. Mean: 16.2004761905	Std: 0.856907375061
+	rssi. Mean: -51.9047619048	Std: 1.570706905
+
+pos7.txt
+	Dist. Mean: 16.5904761905	Std: 0.780509456277
+	rssi. Mean: -53.8095238095	Std: 1.49981102362
+
+pos8.txt
+	Dist. Mean: 14.0383333333	Std: 0.548935839198
+	rssi. Mean: -49.625	Std: 0.904272267259
+
+pos9.txt
+	Dist. Mean: 13.872	Std: 1.20465181692
+	rssi. Mean: -48.85	Std: 1.31434394281
+

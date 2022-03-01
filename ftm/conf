@@ -1,0 +1,16 @@
+# Asus ac58u 2.4GHz
+#04:92:26:89:2b:e0 bw=40 cf=2462 cf1=2452
+#04:92:26:89:2b:e0 bw=40 cf=2462 cf1=2452 asap
+# Asus ac58u 5GHz
+#04:92:26:89:2b:e4 bw=80 cf=5500 cf1=5530 asap
+# Card QCA9984 1
+# 04:f0:21:3b:f7:9e bw=80 cf=5745 cf1=5775 asap
+# Card QCA9984 2
+# 04:f0:21:3b:f8:66 bw=80 cf=5745 cf1=5775 asap
+# Card QCA9984 3
+#04:f0:21:3b:f8:67 bw=80 cf=5745 cf1=5775 asap
+# Younes
+#44:85:00:23:b9:8c bw=20 cf=2412 asap
+# Asus ac58u 5GHz (second)
+#0c:9d:92:b8:de:f8 bw=40 cf=2462 cf1=2452
+0c:9d:92:b8:de:fc bw=80 cf=5500 cf1=5530 asap

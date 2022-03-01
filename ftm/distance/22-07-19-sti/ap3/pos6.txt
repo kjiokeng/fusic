@@ -1,0 +1,45 @@
+[2019-07-22 16:28:44] Success to put for target 4:92:26:89:2b:e4
+[2019-07-22 16:28:44] phy #0: FTM result! Status: 0
+[2019-07-22 16:28:44] Target: 04:92:26:89:2b:e4, status: 0, rtt: 23107 psec, distance: 346 cm, rssi: -43 dBm
+[2019-07-22 16:28:45] Success to put for target 4:92:26:89:2b:e4
+[2019-07-22 16:28:45] phy #0: FTM result! Status: 0
+[2019-07-22 16:28:45] Target: 04:92:26:89:2b:e4, status: 0, rtt: 25812 psec, distance: 387 cm, rssi: -49 dBm
+[2019-07-22 16:28:46] Success to put for target 4:92:26:89:2b:e4
+[2019-07-22 16:28:46] phy #0: FTM result! Status: 0
+[2019-07-22 16:28:46] Target: 04:92:26:89:2b:e4, status: 0, rtt: 30040 psec, distance: 450 cm, rssi: -45 dBm
+[2019-07-22 16:28:47] Success to put for target 4:92:26:89:2b:e4
+[2019-07-22 16:28:47] phy #0: FTM result! Status: 0
+[2019-07-22 16:28:47] Target: 04:92:26:89:2b:e4, status: 0, rtt: 21434 psec, distance: 321 cm, rssi: -44 dBm
+[2019-07-22 16:28:48] Success to put for target 4:92:26:89:2b:e4
+[2019-07-22 16:28:48] phy #0: FTM result! Status: 0
+[2019-07-22 16:28:48] Target: 04:92:26:89:2b:e4, status: 0, rtt: 25705 psec, distance: 385 cm, rssi: -45 dBm
+[2019-07-22 16:28:49] Success to put for target 4:92:26:89:2b:e4
+[2019-07-22 16:28:49] phy #0: FTM result! Status: 0
+[2019-07-22 16:28:49] Target: 04:92:26:89:2b:e4, status: 0, rtt: 27059 psec, distance: 405 cm, rssi: -42 dBm
+[2019-07-22 16:28:50] Success to put for target 4:92:26:89:2b:e4
+[2019-07-22 16:28:50] phy #0: FTM result! Status: 0
+[2019-07-22 16:28:50] Target: 04:92:26:89:2b:e4, status: 0, rtt: 25337 psec, distance: 380 cm, rssi: -43 dBm
+[2019-07-22 16:28:51] Success to put for target 4:92:26:89:2b:e4
+[2019-07-22 16:28:51] phy #0: FTM result! Status: 0
+[2019-07-22 16:28:51] Target: 04:92:26:89:2b:e4, status: 0, rtt: 26271 psec, distance: 394 cm, rssi: -42 dBm
+[2019-07-22 16:28:52] Success to put for target 4:92:26:89:2b:e4
+[2019-07-22 16:28:52] phy #0: FTM result! Status: 0
+[2019-07-22 16:28:52] Target: 04:92:26:89:2b:e4, status: 0, rtt: 28103 psec, distance: 421 cm, rssi: -43 dBm
+[2019-07-22 16:28:53] Success to put for target 4:92:26:89:2b:e4
+[2019-07-22 16:28:53] phy #0: FTM result! Status: 0
+[2019-07-22 16:28:53] Target: 04:92:26:89:2b:e4, status: 0, rtt: 26189 psec, distance: 392 cm, rssi: -43 dBm
+[2019-07-22 16:28:54] Success to put for target 4:92:26:89:2b:e4
+[2019-07-22 16:28:54] phy #0: FTM result! Status: 0
+[2019-07-22 16:28:54] Target: 04:92:26:89:2b:e4, status: 0, rtt: 25894 psec, distance: 388 cm, rssi: -43 dBm
+[2019-07-22 16:28:55] Success to put for target 4:92:26:89:2b:e4
+[2019-07-22 16:28:55] phy #0: FTM result! Status: 0
+[2019-07-22 16:28:55] Target: 04:92:26:89:2b:e4, status: 0, rtt: 26820 psec, distance: 402 cm, rssi: -42 dBm
+[2019-07-22 16:28:56] Success to put for target 4:92:26:89:2b:e4
+[2019-07-22 16:28:56] phy #0: FTM result! Status: 0
+[2019-07-22 16:28:56] Target: 04:92:26:89:2b:e4, status: 0, rtt: 26276 psec, distance: 394 cm, rssi: -42 dBm
+[2019-07-22 16:28:57] Success to put for target 4:92:26:89:2b:e4
+[2019-07-22 16:28:57] phy #0: FTM result! Status: 0
+[2019-07-22 16:28:57] Target: 04:92:26:89:2b:e4, status: 0, rtt: 21243 psec, distance: 318 cm, rssi: -45 dBm
+[2019-07-22 16:28:58] Success to put for target 4:92:26:89:2b:e4
+[2019-07-22 16:28:58] phy #0: FTM result! Status: 0
+[2019-07-22 16:28:58] Target: 04:92:26:89:2b:e4, status: 0, rtt: 23461 psec, distance: 351 cm, rssi: -38 dBm
